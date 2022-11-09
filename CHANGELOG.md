@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/ctrlmais/eslint-config-ctrlmais/compare/v1.1.0...v1.1.1) (2022-11-09)
+
+
+### Bug Fixes
+
+* readme bash code ([8b626ed](https://github.com/ctrlmais/eslint-config-ctrlmais/commit/8b626ed9a4ab74310060cada480fcbe9f6b1362a))
+
 # [1.1.0](https://github.com/ctrlmais/eslint-config-ctrlmais/compare/v1.0.0...v1.1.0) (2022-11-09)
 
 
