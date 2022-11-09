@@ -21,7 +21,7 @@ yarn add -D eslint @ctrlmais/eslint-config
 ```
 
 2. Crie um arquivo `.eslintrc.json` e adicione a configuração:
-```
+```bash
 {
   # Se estiver usando React
   "extends": "@ctrlmais/eslint-config/react"
